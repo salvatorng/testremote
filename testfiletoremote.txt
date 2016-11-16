@@ -1,2 +1,2 @@
 test to 2 remote
-add line
+add line 2
